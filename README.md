@@ -1,6 +1,13 @@
-# Interview_questions
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 100%;"
+    src="https://avatars.mds.yandex.net/i?id=13e320324e1383732109abdbd5d1e7f4d1ce4e1b-8495915-images-thumbs&n=13" 
+    alt="Our logo">
+</img>
 
-![](https://avatars.mds.yandex.net/i?id=13e320324e1383732109abdbd5d1e7f4d1ce4e1b-8495915-images-thumbs&n=13)
+<h1> <center> Interview_questions </center></h1>
 
 1) Зачем нужна тестовая документация?  
 > Ответ::
